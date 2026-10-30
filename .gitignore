@@ -13,3 +13,17 @@ Old_source/
 desktop.ini
 jableTV.csv
 main.spec
+
+# cursor-rules-compat begin
+.cursor/
+AGENTS.md
+CLAUDE.md
+.editorconfig
+.github/instructions/
+.github/skills
+.opencode/
+.deveco/
+opencode.json
+deveco.json
+.vscode/mcp.json
+# cursor-rules-compat end
